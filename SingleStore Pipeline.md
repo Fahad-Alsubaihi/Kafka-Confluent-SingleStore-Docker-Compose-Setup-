@@ -1,4 +1,5 @@
 # 🚀 Create SingleStore Pipeline
+Guide to setting up a SingleStore Pipeline using SQL commands. It includes a step-by-step guide for creating a database, table structures, and pipelines to load data from Kafka topics into SingleStore tables. The guide also covers testing and starting the pipeline, troubleshooting common errors, and key notes to ensure a successful setup.
 ## 📋 Table of Contents
 - [Step-by-Step Guide](#-step-by-step-guide)
 - [Troubleshooting](#-troubleshooting)
