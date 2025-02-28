@@ -1,4 +1,7 @@
 # Use JDBC Connector
+
+This guide provides detailed instructions on how to set up and use the JDBC Connector with Kafka, Confluent, SingleStore, and MySQL. It covers the installation of the JDBC Connector plugin, configuration of JDBC connectors, and deploying them via the Control Center UI.
+
 ## 📋 Table of Contents
 - [Install JDBC Connector Plugin](#-install-jdbc-connector-plugin)
 - [SingleStore with JDBC Connector](#-singlestore-with-jdbc-connector)
