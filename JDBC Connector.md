@@ -38,7 +38,7 @@ Check if the driver is installed:
 docker exec connect ls /usr/share/confluent-hub-components/confluentinc-kafka-connect-jdbc/lib/
 ```
 ## 🐬 MySQL with JDBC Connector
-### 🐳 Add MySQL to Docker Compose
+### Add MySQL to Docker Compose
 #### Add the following to your `docker-compose.yml`:
 
 ```yaml
