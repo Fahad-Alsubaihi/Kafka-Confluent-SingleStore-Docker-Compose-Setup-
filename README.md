@@ -203,7 +203,7 @@ Press `Ctrl+C` to stop the consumer.
 
 ## 🛠 SingleStore Pipeline
 
-[Create SingleStore Pipeline](https://github.com/Fahad-Alsubaihi/Kafka-Confluent-SingleStore-Docker-compose/blob/main/SingleStore-Pipeline-With-Kafka.md).
+[Create SingleStore Pipeline](https://github.com/Fahad-Alsubaihi/Kafka-SingleStore-Real-Time-Pipeline/blob/main/SingleStore%20Pipeline.md).
 
 ## 🔌 JDBC Connector
 
